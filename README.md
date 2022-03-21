@@ -1,14 +1,14 @@
-# Formulário de Login
+# Login Form
 
-### 🔹Sobre o Projeto:
-Este é um formulário de login **responsivo** usando transições.
+### 🔹About this Project:
+This is a **responsive** login form using transitions.
 
-### 🔹Tecnologias Utilizadas:
+### 🔹Technologies Used:
 
 - HTML
 - CSS
 
-### 🔹Layout do Projeto:
+### 🔹Project Layout:
 
 https://betafontes.github.io/form-login/
 
